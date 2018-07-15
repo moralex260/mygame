@@ -15,15 +15,16 @@ class ChoicePerson {
         final int chooseDorothy = 4;
         final int goMainMenu = 0;
         final int bet = 5;
+        final int createPerson = 6;
         Scanner scanner = new Scanner(System.in);
-        choice = scanner.nextInt();
         System.out.println("   you can choose one of this pretty housewife:  Becky and Dorothy \n" +
                 "to know who is Becky enter :  1 \n" +
                 "to know who is Dorothy enter :2\n" +
                 "to choose  Becky enter  : 3 \n" +
                 "to choose Dorothy: 4 \n" +
                 "back in main game menu enter: 0 \n" +
-                " you can also do bets entering:5 \n");
+                " you can also do bets entering: 5 \n"+
+                "create your person: 6 \n");
         while (scanner.hasNextInt()) {
             int choice = scanner.nextInt();
             switch (choice) {
@@ -74,6 +75,10 @@ class ChoicePerson {
                     System.out.println("your choice Dorothy");
                     startFight();
                     break;
+                }
+                case createPerson:{
+                    MenuOfPerson.menu();
+                    MenuOfPerson.personMenu();
                 }
                 case goMainMenu: {
                     return;
