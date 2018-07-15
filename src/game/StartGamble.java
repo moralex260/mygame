@@ -9,7 +9,7 @@ public class StartGamble extends StartFight {
         System.out.println("enter person who wil be win(Dorothy or Becky)");
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
-        System.out.println("enter sume of bet");
+        System.out.println("enter sum of bet");
         int bet = scanner.nextInt();
         sum -= bet;
         startFight();

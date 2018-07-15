@@ -11,7 +11,8 @@ class MenuOfPerson {
     private static final int UPDATE = 4;
 
     static void menu() {
-        System.out.println("--------Menu--------");
+        System.out.println("         Menu     " +
+                "");
         System.out.println(" 1 - Add person");
         System.out.println(" 2 - Choose person");
         System.out.println(" 3 - Remove person by id");

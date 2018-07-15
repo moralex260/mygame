@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="236efda1-d242-451d-aee9-e8bca47adef5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Game/game/ChoicePerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Game/game/GameMenu$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Game/game/GameMenu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Game/game/HausewifesDefence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Game/game/Menu$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Game/game/Menu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Game/game/MenuOfPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Game/game/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Game/game/PersonManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Game/game/RandomInt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Game/game/StartFight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Game/game/StartGamble.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Game/game/WeaponsChoice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/MenuOfPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/PersonManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/game/RandomInt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CreatingGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Game.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreatingGame/game/ChoicePerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreatingGame/game/GameMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreatingGame/game/HausewifesDefence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreatingGame/game/StartFight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreatingGame/game/StartGamble.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CreatingGame/game/WeaponsChoice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/Choiceperson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Choiceperson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/GameMENU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/HausewifesDefence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/HausewifesDefence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/StartFight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/StartFight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/StartGamble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/StartGamble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/game/WeaponsChoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/WeaponsChoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/Menu.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Game.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/game/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="345">
+              <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,20 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MenuOfPerson.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/game/MenuOfPerson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+            <state relative-caret-position="204">
+              <caret line="40" column="57" lean-forward="true" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Choiceperson.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Choiceperson.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/game/Choiceperson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="80" column="46" selection-start-line="80" selection-start-column="46" selection-end-line="80" selection-end-column="46" />
+            <state relative-caret-position="234">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,8 +78,8 @@
       <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/game/Menu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="51">
+              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -185,8 +142,6 @@
         <option value="$PROJECT_DIR$/src/game/WeaponsChoice.java" />
         <option value="$PROJECT_DIR$/src/game/StartFight.java" />
         <option value="$PROJECT_DIR$/src/game/StartGamble.java" />
-        <option value="$PROJECT_DIR$/src/game/Menu.java" />
-        <option value="$PROJECT_DIR$/src/game/Game.java" />
         <option value="$PROJECT_DIR$/src/game/Choiceperson.java" />
         <option value="$PROJECT_DIR$/src/game/PersonMeneger.java" />
         <option value="$PROJECT_DIR$/src/game/Person.java" />
@@ -194,6 +149,9 @@
         <option value="$PROJECT_DIR$/src/game/PersonManager.java" />
         <option value="$PROJECT_DIR$/src/game/gitignore" />
         <option value="$PROJECT_DIR$/gitignore" />
+        <option value="$PROJECT_DIR$/gitignor" />
+        <option value="$PROJECT_DIR$/src/game/Menu.java" />
+        <option value="$PROJECT_DIR$/src/game/Game.java" />
       </list>
     </option>
   </component>
@@ -216,24 +174,6 @@
             <path>
               <item name="CreatingGame" type="b2602c69:ProjectViewProjectNode" />
               <item name="CreatingGame" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CreatingGame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CreatingGame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CreatingGame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CreatingGame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CreatingGame" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CreatingGame" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
-              <item name="Choiceperson.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -369,17 +309,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1544" height="796" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.2560606" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32776934" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3272727" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3272727" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3272727" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26010782" />
@@ -395,7 +337,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32830188" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.25683892" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -403,7 +344,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -634,13 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/game/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/game/StartFight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -669,20 +603,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/game/MenuOfPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitignor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -693,10 +624,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/game/Game.java">
+    <entry file="file://$PROJECT_DIR$/src/game/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="51">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/MenuOfPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="40" column="57" lean-forward="true" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -705,8 +643,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/game/Choiceperson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="80" column="46" selection-start-line="80" selection-start-column="46" selection-end-line="80" selection-end-column="46" />
+        <state relative-caret-position="234">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

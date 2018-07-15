@@ -20,4 +20,5 @@ public enum Menu {
 
         return EXIT;
     }
+
 }

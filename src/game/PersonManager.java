@@ -49,13 +49,13 @@ package game;
             throw new IndexOutOfBoundsException();
     }
 
-    static void set(int id, String name, String describe, int year) {
+    static void set(int id, String name, String describe, int hp) {
         if (searchIndex(id) < arr.length) {
             for (Person tmp : arr) {
                 if (tmp.getId() == id) {
 
                     arr[searchIndex(id)].setName(name);
-                    arr[searchIndex(id)].setYear(year);
+                    arr[searchIndex(id)].setYear(hp);
                 }
             }
         } else
